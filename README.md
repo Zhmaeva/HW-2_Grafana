@@ -12,10 +12,17 @@
 #### Отправка задания на проверку  
   
 **Запушила репозиторий на GitHub**
+##### telegraf + influxDB
 - с конфигурацией
-  ![telegraf.conf](.screenshots\1.png)
+  ![telegraf.conf](./telegraf/screenshots/1.png)
 - с дашбордами
 - скриншотами
-  ![general](2.png)
-  ![cpu](3.png)
-  ![TCP](4.png)
+  ![general](./telegraf/screenshots/2.png)  
+
+  ![cpu](./telegraf/screenshots/3.png)  
+
+  ![TCP](./telegraf/screenshots/4.png)  
+
+  ![upd](./telegraf/screenshots/5.png)  
+
+  ![disk](./telegraf/screenshots/6.png)
