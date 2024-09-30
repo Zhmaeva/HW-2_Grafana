@@ -13,10 +13,11 @@
   
 **Запушила репозиторий на GitHub**
 ##### telegraf + influxDB
-- с конфигурацией
+- конфигурация  
+  
   ![telegraf.conf](./telegraf/screenshots/1.png)
-- с дашбордами
-- скриншотами
+
+- скриншоты
   ![general](./telegraf/screenshots/2.png)  
 
   ![cpu](./telegraf/screenshots/3.png)  
@@ -26,3 +27,6 @@
   ![upd](./telegraf/screenshots/5.png)  
 
   ![disk](./telegraf/screenshots/6.png)
+
+##### node-exporter + prometheus
+
