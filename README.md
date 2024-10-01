@@ -9,9 +9,10 @@
 6. Для prometheus: сделать частоту отправки метрик каждые 36 секунд.
 7. Сделать скриншоты состояния метрик системы в покое длительностью минимум 15 минут.  
 
-#### Скриншоты  
+#### `Скриншоты`  
   
-##### telegraf + influxDB
+#### telegraf + influxDB
+_______________________________________
 
 ![docker](./telegraf/screenshots/0.png)
   
@@ -27,7 +28,8 @@
 
   ![disk](./telegraf/screenshots/6.png)
 
-##### node-exporter + prometheus
+#### node-exporter + prometheus
+____________________________________
 
 ![docker](./prometheus/screenshots/0.png)  
 
